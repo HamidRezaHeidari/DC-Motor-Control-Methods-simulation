@@ -9,6 +9,8 @@ For us, in this case, permanent error is of little importance. The adverbs of th
 2. The minimum sitting time is 0.04 seconds (in order not to damage the door in the long term due to static shock)
 3. The permissible range of door opening speed (ω) is better between 30 and 32 radians per second.
   <br />
+# star if you like it ✨
+  <br />
 
 <p align="center">
   <img title="Fig1" height="410" src="images/1.png">
